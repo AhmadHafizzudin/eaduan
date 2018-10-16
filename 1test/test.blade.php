@@ -1,2 +1,2 @@
 <test>
-	hai nisa
+hai semua
